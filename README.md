@@ -1,5 +1,5 @@
 # GlobalAlerts
-Short description and motivation.
+A Rails engine to render alert messages. The engine will read the config file from Github when the application starts up and display an alert if one is found.
 
 ## Usage
 
